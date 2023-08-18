@@ -1,6 +1,7 @@
-### Bem vindo ao meu perfil GitHub 👋
+## Olá, Eu sou o Gabriel Reliquias 👋
 
-<h2>Programador Fullstack em aprendizado.</h2>
+- Hoje trabalho como desenvolvedor front-end freelancer 💻
+- Estudando back-end (fullstack) 📚
 
 ## Ferramentas e Tecnologias
 
