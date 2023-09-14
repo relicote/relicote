@@ -3,7 +3,7 @@
 
 
 
-- Hoje trabalho como desenvolvedor front-end freelancer 💻
+- Hoje trabalho como desenvolvedor Fullstack freelancer 💻
 - Ferramentas utilizadas atualmente: HTML, CSS, Javascript, Typescript e Angular. <hr>
   
 - Estudando back-end (fullstack) 📚
