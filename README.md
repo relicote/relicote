@@ -4,7 +4,7 @@
 
 
 - Trabalho como desenvolvedor Fullstack freelancer 💻
-- Ferramentas utilizadas: HTML, CSS, Javascript, Typescript, Angular, Java e Spring Boot. <hr>
+- Ferramentas utilizadas: HTML, CSS, Javascript, Typescript, Angular, ReactJS,  Java e Spring Boot. <hr>
   
 - Tecnologias que estou estudando: C# e .NET
 
