@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Gabriel%20Reliquias&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%7C%2011%20anos%20de%20experiência&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gabriel--reliquias-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-reliquias/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-302b63?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-visit-302b63?style=for-the-badge&logo=vercel&logoColor=white)]((https://www.orelicode.com.br/))
 
 </div>
 
