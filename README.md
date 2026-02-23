@@ -6,7 +6,7 @@
 - Trabalho como desenvolvedor Fullstack com foco em front-end 💻
 - Ferramentas utilizadas: HTML, CSS, Javascript, Typescript, Python, Angular, C#, ReactJS e React Native. <hr>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=relicote&hide=contribs&show_icons=true&theme=github_dark )](https://github.com/anuraghazra/github-readme-stats) ![200w (1)](https://github.com/relicote/relicote/assets/125402939/3bcd7cf4-7109-4147-8b66-31df666e61df)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=relicote)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=relicote)](https://github.com/relicote/github-readme-stats)
 
