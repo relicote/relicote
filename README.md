@@ -11,7 +11,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Profissional de TI com **11 anos de experiência**, atuando como **Desenvolvedor Fullstack** com forte foco em **Frontend** e **Arquitetura de Software**. Apaixonado por criar soluções escaláveis, interfaces elegantes e sistemas bem estruturados do código ao deploy.
+Profissional de TI com **12 anos de experiência**, atuando como **Desenvolvedor Fullstack** com forte foco em **Frontend** e **Arquitetura de Software**. Apaixonado por criar soluções escaláveis, interfaces elegantes e sistemas bem estruturados do código ao deploy.
 
 ```ts
 const gabriel = {
